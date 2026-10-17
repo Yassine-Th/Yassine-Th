@@ -21,14 +21,6 @@ An e-learning platform with courses, live classes, quizzes, assignments, gamific
 
 📖 **[Read the case study](https://github.com/Yassine-Th/Yassine-Th/blob/main/naqla-academy.md)**: architecture, screenshots and the problems I solved.<br/><sub>The source code is private (client project). Live code walkthrough on request.</sub>
 
-## 📂 More projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Club Sport Management](https://github.com/Yassine-Th/club-sport-management)** | Final-year internship project (Norsys Afrique): public club site, online shop and admin panel. Team of 2. **My part:** database design, authentication, admin panel, the whole e-commerce store (products, cart, multi-step checkout, orders), ticketing, squad and calendar | Laravel, React, MySQL |
-| **[AbsenceTracker](https://github.com/Yassine-Th/absence-tracker)** | Absence management for a training institute, with roles for admins, supervisors, trainers and trainees. Team of 2. **My part:** supervisor module, trainer management, absence history and reports | Laravel, React, Tailwind CSS, MySQL |
-| **[Parapharmacy stock management](https://github.com/Yassine-Th/stock-management-parapharmacie)** | Full-stack stock system: products, inventory and stock-level reports | TypeScript |
-
 ## 💼 Experience
 
 | When | Role | What I did |
